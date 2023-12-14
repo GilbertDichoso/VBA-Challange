@@ -1,4 +1,4 @@
-# VBA-Challange
+# VBA-Challenge
 Module 2 Assignment
 
 Initial preparations
